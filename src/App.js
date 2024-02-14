@@ -3,7 +3,9 @@ import Myprofile from "./components/Myprofile";
 
 function App() {
   return (
+/*......Routing...........*/ 
     <div className="App">
+
       <Myprofile/>
     </div>
   );
